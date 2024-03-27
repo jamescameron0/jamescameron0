@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @camerj22, (or James Cameron)
+- 👋 Hi, I’m James Cameron
   
 - 👀 I’m studying computer engineering! I love programming but am also facinated by circuits
   

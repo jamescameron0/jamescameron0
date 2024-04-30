@@ -2,7 +2,7 @@
   
 - 👀 I’m studying computer engineering! I love programming but am also facinated by circuits
   
-- I am proficient in python, c, and c++, and currently learning java through independent study
+- I am proficient in python, c, and c++
   
 - 🌱 I’m currently learning data structures and circuit analysis
 

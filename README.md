@@ -2,7 +2,7 @@
   
 - 👀 I’m studying computer engineering! I love programming but am also facinated by circuits.
   
-- I am proficient in python, c, and c++...
+- I am proficient in python, c, and c++ with an understanding in JavaScript...
   
 - 🌱 Outside of work I am spending some time learning html and css!
 

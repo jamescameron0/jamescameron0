@@ -10,6 +10,6 @@
 
 - 📫 How to reach me! My email is jamesacameron3894@gmail.com.
   
-- ⚡ Fun fact: Althought I love my engineering degree, I am also passionate about exploring the realm of finance!
+- ⚡ Fun fact: Although I love my engineering degree, I am also passionate about exploring the realm of finance!
 
 - I also like to design custom 3D models and prints!

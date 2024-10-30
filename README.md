@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James Cameron
   
-- 👀 I’m studying computer engineering! I love programming but am also facinated by circuits.
+- 👀 I’m studying computer engineering! I love programming and am also facinated by computers and how they work.
   
 - I am proficient in python, c, and c++ with an understanding in JavaScript...
   
